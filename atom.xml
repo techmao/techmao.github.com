@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[techmao's blog]]></title>
+  <title><![CDATA[TECHMAO]]></title>
   <link href="http://techmao.github.io/atom.xml" rel="self"/>
   <link href="http://techmao.github.io/"/>
-  <updated>2013-10-11T15:48:44-04:00</updated>
+  <updated>2013-10-11T16:02:36-04:00</updated>
   <id>http://techmao.github.io/</id>
   <author>
     <name><![CDATA[techmao]]></name>
